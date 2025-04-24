@@ -4,9 +4,9 @@ I'm an Analytics Engineer and Data Scientist with a Ph.D. in Electrical Engineer
 
 ## 💼 What I Do
 - 📊 Data Analytics & Machine Learning
-- ⚡ Energy System Modeling
-- 🧠 AI Chatbots & Automation
+- ⚡ Energy System Analysis & Modeling & Optimization
 - 📈 Business Intelligence & Forecasting
+- 🧠 AI Chatbots & Automation
 
 ## 🛠️ Tech Stack
 Python | SQL | R | Power BI | Numpy | Pandas | Scikit-learn | TensorFlow | Excel | MATLAB
