@@ -12,7 +12,7 @@ I'm an Analytics Engineer and Data Scientist with a Ph.D. in Electrical Engineer
 Python | SQL | R | Power BI | Numpy | Pandas | Scikit-learn | TensorFlow | Excel | MATLAB
 
 ## 📂 Featured Projects
-- [Energy Market Forecasting](https://github.com/JasonZhou2023NZ/AI-Powered-Generator-Indification)
+- [Energy Market Forecasting](https://github.com/JasonZhou2023NZ/AI-Powered-Generator-Identification.git)
 - [AI Chatbot for Power Company](https://github.com/jingsenzhou/power-company-chatbot)
 - [LSTM-Based Load Prediction](https://github.com/jingsenzhou/load-prediction-lstm)
 
