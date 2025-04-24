@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Jingsen Zhou 👋
 
-<!--
-**JasonZhou2023NZ/JasonZhou2023NZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Analytics Engineer and Data Scientist with a Ph.D. in Electrical Engineering and 5+ years of experience in the energy sector. I use data to drive impactful decisions and optimize complex systems.
 
-Here are some ideas to get you started:
+## 💼 What I Do
+- 📊 Data Analytics & Machine Learning
+- ⚡ Energy System Modeling
+- 🧠 AI Chatbots & Automation
+- 📈 Business Intelligence & Forecasting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+Python | SQL | R | Power BI | Numpy | Pandas | Scikit-learn | TensorFlow | Excel | MATLAB
+
+## 📂 Featured Projects
+- [Energy Market Forecasting](https://github.com/JasonZhou2023NZ/AI-Powered-Generator-Indification)
+- [AI Chatbot for Power Company](https://github.com/jingsenzhou/power-company-chatbot)
+- [LSTM-Based Load Prediction](https://github.com/jingsenzhou/load-prediction-lstm)
+
+📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/jingsenzhou) | Email: cqzhoujingsen@gmail.com
